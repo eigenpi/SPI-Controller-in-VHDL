@@ -11,8 +11,8 @@ an SPI Slave.
 Each of these two SPI controllers have been tested. Each of the two tests
 involve two main components: (1) an FPGA board; I used DE1-SoC board
 and (2) a microcontroller board; I used an Arduino Uno. Here, you
-all files needed to replicate the two tests that verify the correct
-operation of teh two SPI controllers.
+find all files needed to replicate the two tests that verify the correct
+operation of the two SPI controllers.
 Complete Quartus II projects are provided in subfolders called "fpga".
 Complete Arduino sketches are located in subfolders called "arduino",
 for each test circuit.
