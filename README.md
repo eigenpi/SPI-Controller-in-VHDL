@@ -24,11 +24,12 @@ between the FPGA board and the Arduino Uno board.
 
 A short video description can be found on my youtube channel.
 
-https://www.youtube.com/@eigenpi
+https://youtu.be/JBA_44HPHLc 
 
 ## Credits
 
 The SPI Controller Master is adapted from the wonderful book of Pong P. Chu
 (I highly reccommend reading the book for further details):
+
 [1] Pong P. Chu, FPGA Prototyping by VHDL Examples: Xilinx MicroBlaze 
     MCS SoC, Wiley, 2nd edition, October 23, 2017.
